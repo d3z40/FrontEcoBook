@@ -27,7 +27,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <!-- Brand -->
-      <a class="navbar-brand pt-0" href="../examples/index.html">
+      <a class="navbar-brand pt-0" href="../index.html">
         <img src="../assets/img/brand/carbooks.png" class="navbar-brand-img" alt="...">
       </a>
       <!-- Collapse -->
@@ -36,7 +36,7 @@
         <div class="navbar-collapse-header d-md-none">
           <div class="row">
             <div class="col-6 collapse-brand">
-              <a href="../examples/index.html">
+              <a href="../index.html">
                 <img src="../assets/img/brand/blue.png">
               </a>
             </div>
@@ -51,7 +51,7 @@
         <!-- Navigation -->
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="../examples/index.html">
+            <a class="nav-link" href="../index.html">
               <i class="ni ni-tv-2 text-primary"></i> Dashboard
             </a>
           </li>
